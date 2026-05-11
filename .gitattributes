@@ -1,1 +1,1 @@
-src/*.py linguist-documentation
+*.py linguist-vendored
