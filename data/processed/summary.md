@@ -1,0 +1,17 @@
+## Key Findings
+
+| Indicator | Lilly | Novo |
+|---|---|---|
+| Total GLP-1 Trials | 161.0 | 311.0 |
+| Unique Drugs | 15.0 | 11.0 |
+| Indication Breadth | 6.0 | 7.0 |
+| Median Enrollment | 300.0 | 200.5 |
+| Enrollment Efficiency (pts/site/mo) | 0.61 | 0.76 |
+| Median Countries/Trial | 2.0 | 1.0 |
+| Median Sites/Trial | 37.0 | 20.5 |
+| % Randomized | 90.1 | 96.5 |
+| % Double-Blind | 61.5 | 36.3 |
+| Trial Completion Rate (%) | 97.3 | 97.9 |
+| Phase 3 Attrition (%) | 0.0 | 3.3 |
+| Median Reporting Lag (days) | 414.0 | 483.0 |
+| % Results within 365 days | 7.8 | 0.8 |

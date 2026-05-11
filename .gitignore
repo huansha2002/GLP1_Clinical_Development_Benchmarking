@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+data/raw/
+.ipynb_checkpoints/
+.DS_Store
+generate_files.py

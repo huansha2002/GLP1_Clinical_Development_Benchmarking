@@ -1,0 +1,9 @@
+drug,sponsor,n_trials,dev_span_years
+exenatide,Novo Nordisk,8,1.6
+retatrutide,Eli Lilly,18,5.5
+orforglipron,Eli Lilly,29,7.6
+cagrilintide,Novo Nordisk,36,8.7
+tirzepatide,Eli Lilly,80,14.2
+dulaglutide,Eli Lilly,39,16.2
+semaglutide,Novo Nordisk,204,22.8
+liraglutide,Novo Nordisk,121,24.4
