@@ -92,7 +92,8 @@ Ph.D. in Bioengineering | M.S. Candidate in Computer Science, Syracuse Universit
 
 ---
 
-This repository is shared for educational and research demonstration purposes only.
-Unauthorized reproduction or commercial use is prohibited.
+## Repository Ownership and Use
 
-This project demonstrates how computational analytics can benchmark clinical development efficiency across biopharmaceutical companies using publicly available registry data.
+This repository is maintained by Dr. Hanjing Wu for educational, research, and professional portfolio demonstration purposes.
+
+Unauthorized reproduction or commercial use is prohibited.
